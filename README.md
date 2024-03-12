@@ -1,1 +1,1 @@
-# Thyroid-Detection-Using-Custom-CNN
+# Thyroid-Detection-Using-Deep Learning 
